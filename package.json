@@ -1,0 +1,12 @@
+{
+  "name": "flash-arbitrage-master",
+  "version": "1.0.0",
+  "description": "Flash loan arbitrage toolkit",
+  "main": "index.js",
+  "dependencies": {
+    "@aave/core-v3": "^1.17.2",
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.7.0"
+  }
+}
